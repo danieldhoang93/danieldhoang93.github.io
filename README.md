@@ -1,6 +1,6 @@
 # Quasar App (quasar-portfolio)
 
-my quasar portfolio
+Link: ddh.netlify.app
 
 ## Install the dependencies
 ```bash
